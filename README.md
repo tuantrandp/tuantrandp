@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%"/>
-</div>
-
-### Hi there 👋
+### Hi there
 ### About Me:
 - My name is Tuan Tran
 - I am a Full Stack Developer
