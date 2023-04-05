@@ -1,4 +1,3 @@
-### Hi there
 ### About Me:
 - My name is Tuan Tran
 - I am a Full Stack Developer
